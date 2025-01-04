@@ -1,0 +1,9 @@
+streamlit
+pandas
+google-generativeai
+python-dotenv
+numpy
+plotly
+SQLAlchemy
+pymysql
+streamlit_tags
